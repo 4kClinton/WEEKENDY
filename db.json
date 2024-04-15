@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "name": "BOOMFEST",
+      "description": "This is a Wakadinali Concert.",
+      "location": "",
+      "price": "$20"
+    },
+    {
+      "name": "THE RONG EXPERIENCE",
+      "description": "This is Wakadinali Concert.",
+      "location": "",
+      "price": "$20"
+    },
+    {
+      "name": "B BOY SETTINGZ",
+      "description": "BURUKLYN BOYZ CONCERT",
+      "location": "",
+      "price": "$20"
+    },
+    {
+      "name": "BIEN AUSTRALIA TOUR",
+      "description": "Perth - April 27th.<br>Adelaide - April 28th.<br>Melbourne - May 3rd.<br>Sydney - May 4th.",
+      "location": "",
+      "price": "$100"
+    },
+    {
+      "name": "X-FEST",
+      "description": "Hosted by Wagzz.<br>Location - SK8CITY",
+      "location": "",
+      "price": "$25"
+    },
+    {
+      "name": "TOMMOROWLAND",
+      "description": "Featuring STEVE AOKI <br> Location to be set.",
+      "location": "",
+      "price": "$500"
+    },
+    {
+      "name": "WIRELESS FEST",
+      "description": "Future & Nicki Minaj.<br> Birmingham,Leeds Fields",
+      "location": "",
+      "price": "$200"
+    },
+    {
+      "name": "WIRELESS FESTIVAL",
+      "description": "This is CENTRAL CEE.<br>Birmingham,Sully Fields",
+      "location": "",
+      "price": "$20"
+    },
+    {
+      "name": "BURNA BOY",
+      "description": "DC WASHINGTON CONCERT <br> 35th avenue All Saints",
+      "location": "",
+      "price": "$20"
+    }
+  ]
+}
